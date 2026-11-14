@@ -37,6 +37,38 @@ Xưởng What If Ngược sản xuất nội dung cho một kênh YouTube **ti�
 - **Độ dài:** video dài 8–15 phút. Shorts chỉ dùng để cắt từ video dài và kéo người xem.
 - **Giọng văn:** kể chuyện cuốn hút, nhịp nhanh, hài hước khô kiểu Anh–Mỹ, không giật gân sai sự thật.
 
+## Chiến lược kênh (đã chốt)
+
+Nguồn: `reports/Thị trường và chiến lược kênh What If.md`. Đây là 9 quyết định cả đội phải tuân theo:
+
+1. **Định vị "case file có nguồn, do người nghiên cứu".** Nguồn dẫn là một phần nhận diện: thẻ nguồn trên màn hình, mục Sources trong mô tả, bình luận ghim để đính chính khi có sai sót.
+2. **Giữ ngách What if + bóc huyền thoại** từ video đầu tiên, không đổi hướng.
+3. **Giọng đọc người thật, nhất quán** (một voice actor cố định hoặc chủ kênh tự đọc). Không dùng giọng AI chung chung.
+4. **Cảnh vẽ cho Inside the Moment** phải qua kiểm tra lỗi thời đại và gắn nhãn "Dramatised reconstruction". Ưu tiên tranh tư liệu public domain.
+5. **Nhịp đăng:** 1 video dài mỗi tuần, cố định ngày, nhắm 10–12 video trong 90 ngày đầu. Mỗi video kèm 2–3 Shorts đăng trong 72 giờ.
+6. **Thiết kế cho Suggested và màn hình TV:** series và playlist, câu nối sang video sau ở cuối video, chữ to, thumbnail 1–3 từ.
+7. **Test & Compare 3 phương án khác hẳn nhau** cho mọi video dài. YouTube chọn phương án thắng theo watch time, nên không được câu click.
+8. **Bám lịch kỷ niệm 2027** (Apollo 1, Beethoven, Tenerife, Sack of Rome, Lindbergh, Saratoga, Sputnik, Halifax, khối Halloween). Kiểm chứng ngày trước khi lên lịch.
+9. **Tăng trưởng tự nhiên trước; quảng cáo chỉ để thử bao bì** (50–100 USD, sau ngày 30). Nộp W-8BEN ngay khi bật kiếm tiền. Xác minh tư cách YPP của Việt Nam trước khi đặt mục tiêu doanh thu.
+
+## Nhận diện hình ảnh
+
+- **Nhận diện kênh và thumbnail:** phong cách A "Archive Noir": giấy #EDE6D6, mực #1B1A17, đỏ #B3261E, xám #5C5547; font Anton (tiêu đề), Special Elite (nhãn hồ sơ), Inter (phụ đề). Các yếu tố lặp lại: con dấu MYTH, thẻ chương đánh máy, nhãn FACT / DEBATE / SPECULATION, thẻ "What we were told" gạch đỏ rồi "What the evidence says", kết bằng dấu CASE CLOSED?.
+- **Explainer:** bản đồ và sơ đồ kiểu C "Map Room" (navy #0E2A47, cam #E8772E) đặt trong khung Archive Noir.
+- **Inside the Moment:** cảnh vẽ kiểu B "Living Painting", letterbox, viền và nhãn theo Archive Noir, luôn có nhãn "Dramatised reconstruction".
+- Bảng thiết kế mẫu: https://claude.ai/artifact/WtRamQpLN5AZEkqcnibEx5
+
+## Kế hoạch 90 ngày (17/11/2026 – 15/2/2027)
+
+| Giai đoạn | Mục tiêu đo được |
+|---|---|
+| Tuần 0 | 3 video làm sẵn; bảng từ khóa cho khoảng 20 ứng viên; xác minh YPP Việt Nam và tin ngưỡng tăng 2/2027; luật subreddit có ghi ngày đọc |
+| Tuần 1–4 | 4 video dài; trung vị view 30 ngày ≥ 180; CTR 2–10%; giữ ≥ 70% người xem ở giây 60 |
+| Tuần 5–8 | 8 video dài; ít nhất một video ≥ 1.000 view; Apollo 1 đăng khoảng 6/1/2027; so retention Explainer với Inside the Moment |
+| Tuần 9–13 | 10–12 video dài; video gần nhất ≥ 272 view sau 30 ngày; video tốt nhất ≥ 1.948 view, phấn đấu 10.000 |
+
+**Luật dừng:** sau 8 video mà không video nào vượt 500 view và retention dưới 25%, dừng đăng để xem lại chủ đề và phút mở đầu. Nếu một video vượt 5.000 view, dành 1–2 tuần tiếp theo cho phần tiếp theo trực tiếp của nó.
+
 ## Vùng chủ đề
 
 Được làm: lịch sử thế giới (cổ đại tới thế kỷ 20), thảm họa và suýt thảm họa, khoa học, y học trong lịch sử, phát minh, địa lý, vũ trụ.

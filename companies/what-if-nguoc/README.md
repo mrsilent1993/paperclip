@@ -4,6 +4,8 @@
 
 Mọi thứ khán giả nhìn thấy viết bằng tiếng Anh; tài liệu nội bộ và trao đổi giữa các agent viết bằng tiếng Việt.
 
+**Chiến lược đã chốt** (chi tiết trong `COMPANY.md`, nguồn `reports/Thị trường và chiến lược kênh What If.md`): định vị "case file có nguồn, do người nghiên cứu"; nhận diện Archive Noir; giọng đọc người thật; 1 video dài mỗi tuần kèm 2–3 Shorts trong 72 giờ; Test & Compare cho mọi video; tăng trưởng tự nhiên trước; kế hoạch 90 ngày với mục tiêu đo được và luật dừng.
+
 ## Cách công ty vận hành
 
 Mỗi video là một issue, được chuyển qua dây chuyền:
@@ -48,6 +50,7 @@ Mỗi khâu để lại một tài liệu trên issue: `research` → `script` �
 
 **Việc định kỳ** (giờ Việt Nam):
 - Đề xuất chủ đề: thứ Hai 9:00 (Nhà nghiên cứu)
+- Phân phối Shorts và Reels: thứ Ba 10:00 (Tăng trưởng)
 - Theo dõi số liệu: thứ Tư và thứ Bảy 10:00 (Tăng trưởng)
 - Báo cáo tuần: Chủ nhật 20:00 (Giám đốc kênh)
 

@@ -1,26 +1,29 @@
 ---
-name: Lập lịch 10 video đầu tiên
+name: Lập lịch 12 video đầu tiên (90 ngày)
 assignee: nghien-cuu
 project: ra-mat-kenh
 priority: high
 ---
 
-Đề xuất 10 chủ đề cho 10 video đầu tiên của kênh tiếng Anh, theo rubric trong skill `chon-chu-de-what-if`.
+Đề xuất lịch 12 video dài cho 90 ngày đầu (khoảng 17/11/2026 – 15/2/2027) của kênh tiếng Anh, theo rubric trong skill `chon-chu-de-what-if` và kế hoạch 90 ngày trong COMPANY.md.
 
-Các ý đã được gợi ý khi lập kênh. Hãy chấm điểm lại, kiểm tra cạnh tranh trên YouTube tiếng Anh, và thay nếu có ý tốt hơn (xem thêm ngân hàng ý tưởng `reports/Ý tưởng What If lịch sử.md`):
+Nguồn ý tưởng: `reports/Thị trường và chiến lược kênh What If.md` (24 ý tưởng mới, 4 series, lịch kỷ niệm 2027) và `reports/Ý tưởng What If lịch sử.md` (49 ý tưởng). Ứng viên đã được gợi ý:
 
-1. What if Columbus had been right? (các chuyên gia nghi ngờ ông mới đúng về kích thước Trái Đất)
-2. Pompeii: the "mother and child" who weren't (kết quả DNA năm 2024)
-3. The Marathon runner who ran 150 miles, not 26
-4. How the world found out about Chernobyl (chuông báo phóng xạ ở Forsmark, Thụy Điển)
-5. Penicillin was recycled from patients' urine
-6. Napoleon's army was killed by lice, not winter
-7. Galveston 1900: the hurricane warning that was banned
-8. What if the Earth stopped spinning for one second? (dạng Explainer khoa học)
-9. The Luddites weren't against technology (liên hệ AI và việc làm)
-10. The Historical Myths Iceberg (dạng iceberg)
+- Nobody signed on July 4th (Declaration, chữ ký bắt đầu 2/8/1776)
+- Vikings without horned helmets
+- Werewolf trials (đăng trước 25/12/2026, trùng phim *Werwulf*)
+- Apollo 1 (đăng khoảng 6/1/2027 cho mốc 60 năm ngày 27/1)
+- Beethoven's hair lied và Tenerife 50 năm (chuẩn bị cho đầu tháng 3/2027)
+- What if Columbus had been right?
+- Pompeii: the "mother and child" who weren't
+- The Marathon runner who ran 150 miles, not 26
+- How the world found out about Chernobyl
+- Boston Molasses Flood (Inside the Moment)
+- Napoleon's army was killed by lice, not winter
 
 Yêu cầu:
-- Lưu bảng điểm vào tài liệu `topics`, kèm link 1–3 video tiếng Anh cạnh tranh cho mỗi chủ đề.
-- Sắp thứ tự đăng: video #01 nên là chủ đề khán giả Mỹ đã học ở trường và có cú ngược mạnh nhất. Xen kẽ dạng Explainer và Inside the Moment để kênh không lặp khuôn.
-- Giao Giám đốc kênh để hỏi chủ kênh duyệt lịch.
+1. Với khoảng 20 ứng viên, kéo tín hiệu tìm kiếm (YouTube autocomplete, Google Trends, vidIQ nếu có) và ghi vào bảng.
+2. Chấm điểm theo rubric, kèm link 1–3 video tiếng Anh cạnh tranh cho mỗi chủ đề.
+3. Chọn 12 tập và xếp lịch theo tuần: tuần 1–4 ưu tiên huyền thoại phương Tây quen thuộc (2 Explainer, 1 Inside the Moment); các tập gắn kỷ niệm phải đúng hạn đăng. Xen kẽ Explainer và Inside the Moment.
+4. Kiểm chứng ngày kỷ niệm bằng nguồn chính thức trước khi xếp lịch.
+5. Lưu vào tài liệu `topics`, rồi giao Giám đốc kênh để hỏi chủ kênh duyệt lịch.

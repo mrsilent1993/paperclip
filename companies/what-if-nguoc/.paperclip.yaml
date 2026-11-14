@@ -10,6 +10,11 @@ routines:
       - kind: schedule
         cronExpression: "0 20 * * 0"
         timezone: Asia/Ho_Chi_Minh
+  phan-phoi-hang-tuan:
+    triggers:
+      - kind: schedule
+        cronExpression: "0 10 * * 2"
+        timezone: Asia/Ho_Chi_Minh
   theo-doi-so-lieu:
     triggers:
       - kind: schedule

@@ -24,6 +24,12 @@ description: Checklist kiểm chứng sự thật, vùng cấm, chính sách You
 - [ ] **Thân thiện quảng cáo:** không chửi thề, không mô tả bạo lực chi tiết, không hình ảnh gây sốc.
 - [ ] **Công bố AI:** ghi chú nếu video sẽ dùng hình ảnh AI trông như thật về người hoặc sự kiện có thật.
 
+### C2. Chống bị coi là "sản xuất hàng loạt"
+- [ ] Kịch bản không mở đầu, chuyển đoạn hay kết thúc bằng cùng câu chữ như 5 video gần nhất.
+- [ ] Có ít nhất một phát hiện, nguồn hoặc lập luận riêng mà các video cùng chủ đề trên YouTube chưa nói.
+- [ ] Cảnh dựng lại có nhãn "Dramatised reconstruction"; ảnh AI đã qua kiểm tra lỗi thời đại.
+- [ ] Có sẵn câu đính chính để ghim nếu khán giả phát hiện sai sót sau khi đăng.
+
 ### D. Chất lượng
 - [ ] Tiếng Anh tự nhiên như người bản xứ nói: không dịch máy, không câu cứng, không sáo rỗng ("Little did they know…").
 - [ ] Nhân vật hư cấu không được gán lời nói bịa đặt cho người có thật; nhân vật lịch sử chỉ "nói" những gì có nguồn.
