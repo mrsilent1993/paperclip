@@ -1,6 +1,8 @@
 # Xưởng What If Ngược
 
-Đội ngũ 6 AI agent vận hành một kênh YouTube tiếng Việt dạng **"What if" kết hợp góc nhìn ngược**: mỗi video đặt một giả thuyết "Nếu… thì sao?" rồi dẫn người xem tới kết luận trái với điều họ nghĩ. Kênh không lộ mặt, video dài 8–15 phút.
+Đội ngũ 6 AI agent vận hành một kênh YouTube **tiếng Anh** (khán giả Mỹ, Anh, Canada, Úc) dạng **"What if" kết hợp góc nhìn ngược**: mỗi video đặt một giả thuyết "What if…?" rồi dẫn người xem tới kết luận trái với điều họ nghĩ. Kênh không lộ mặt, video dài 8–15 phút, có hai dạng: Explainer (khoa học, địa lý) và Inside the Moment (kể chuyện lịch sử ngôi thứ nhất qua mắt người bình thường).
+
+Mọi thứ khán giả nhìn thấy viết bằng tiếng Anh; tài liệu nội bộ và trao đổi giữa các agent viết bằng tiếng Việt.
 
 ## Cách công ty vận hành
 

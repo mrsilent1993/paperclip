@@ -7,10 +7,10 @@ description: Định dạng gói sản xuất cho video What if không lộ mặ
 
 ## 1. Lời đọc
 
-- Chép nguyên văn các dòng `Lời:` trong kịch bản đã ĐẠT.
+- Chép nguyên văn các dòng `VO:` (tiếng Anh) trong kịch bản đã ĐẠT.
 - Đánh dấu `/` cho ngắt ngắn, `//` cho ngắt dài, **in đậm** cho từ cần nhấn.
-- Ghi gợi ý giọng: nam hoặc nữ, tốc độ (khoảng 150 từ/phút), cảm xúc từng phần.
-- Nếu dùng giọng AI: ghi công cụ gợi ý (ví dụ ElevenLabs, FPT.AI) và cài đặt (độ ổn định, tốc độ).
+- Ghi gợi ý giọng: nam hoặc nữ, giọng Mỹ (General American) trừ khi chủ kênh chọn khác, tốc độ (khoảng 150 từ/phút), cảm xúc từng phần. Dạng Inside the Moment có thể cần giọng thứ hai cho nhân vật.
+- Nếu dùng giọng AI: ghi công cụ gợi ý (ví dụ ElevenLabs) và cài đặt (độ ổn định, tốc độ). Ghi chú cách phát âm cho tên riêng khó (ví dụ "Pheidippides: fy-DIP-ih-deez").
 
 ## 2. Bảng phân cảnh
 
@@ -34,15 +34,15 @@ description: Định dạng gói sản xuất cho video What if không lộ mặ
 
 ## 5. Dựng trên CapCut
 
-1. Nhập lời đọc. Dùng phụ đề tự động tiếng Việt và soát lại chính tả.
+1. Nhập lời đọc. Dùng phụ đề tự động tiếng Anh và soát lại chính tả, nhất là tên riêng.
 2. Đặt hình theo bảng phân cảnh. Áp chuyển động (Ken Burns) cho ảnh tĩnh.
 3. Thêm nhạc nền và hiệu ứng âm thanh.
 4. Xuất 1080p (hoặc 4K nếu có), 30 fps.
 
 ## 6. Shorts
 
-3 đoạn, mỗi đoạn dưới 60 giây, dọc 9:16. Mỗi đoạn mở bằng cú ngược và kết bằng "Xem bản đầy đủ trên kênh". Ghi mốc cắt từ video dài.
+3 đoạn, mỗi đoạn dưới 60 giây, dọc 9:16. Mỗi đoạn mở bằng cú ngược và kết bằng "Full story on the channel". Ghi mốc cắt từ video dài.
 
 ## 7. Công bố AI
 
-Ghi: **CẦN** hoặc **KHÔNG CẦN** bật nhãn "nội dung đã chỉnh sửa hoặc tổng hợp" của YouTube, kèm lý do (đối chiếu với kết luận trong tài liệu `review`).
+Ghi: **CẦN** hoặc **KHÔNG CẦN** bật nhãn "altered or synthetic content" của YouTube, kèm lý do (đối chiếu với kết luận trong tài liệu `review`).

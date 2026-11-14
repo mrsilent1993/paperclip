@@ -1,49 +1,57 @@
 ---
 name: kich-ban-what-if
-description: Cấu trúc, giọng văn và định dạng kịch bản lời đọc 8–15 phút cho video "What if" với góc nhìn ngược, tối ưu giữ chân người xem.
+description: Cấu trúc, giọng văn và định dạng kịch bản lời đọc tiếng Anh 8–15 phút cho video "What if" với góc nhìn ngược, gồm dạng giải thích và dạng kể chuyện ngôi thứ nhất "Inside the Moment".
 ---
 
 # Kịch bản What if
+
+**Kịch bản viết bằng tiếng Anh Mỹ tự nhiên**, như một người kể chuyện giỏi nói, không như văn viết học thuật. Ghi chú cho đội (nếu có) viết tiếng Việt trong ngoặc vuông.
+
+## Hai dạng video
+
+1. **Explainer:** người dẫn chuyện nói với người xem ("you"), dùng cho What if khoa học/địa lý.
+2. **Inside the Moment:** ngôi thứ nhất, thì hiện tại, qua mắt một người bình thường hư cấu sống trong khoảnh khắc lịch sử. Xen kẽ với giọng người dẫn chuyện ở phần bối cảnh và cú ngược.
 
 ## Cấu trúc bắt buộc
 
 | Phần | Thời lượng | Mục tiêu |
 |---|---|---|
-| 1. **Mở đầu ngược** | 0:00–0:30 | Nêu câu hỏi, nói điều người xem đang nghĩ, rồi lật ngược ngay: "Bạn nghĩ X… thực ra là Y." Hứa hẹn điều sẽ được giải đáp ở cuối. |
-| 2. **Bối cảnh** | 0:30–2:00 | Vì sao điều này không xảy ra ngoài đời. Đưa kiến thức nền tối thiểu, bằng ví dụ đời thường. |
-| 3. **Diễn biến theo mốc thời gian** | 2:00–(cuối − 2:30) | 1 giây → 1 ngày → 1 năm → 100 năm (hoặc mốc phù hợp). Mỗi mốc mở bằng một câu gây tò mò, kết bằng hệ quả cụ thể. |
-| 4. **Cú ngược thứ hai** | khoảng 2 phút | Hệ quả không ai ngờ, liên hệ ngược về đời sống người xem. |
-| 5. **Kết và câu hỏi tranh luận** | 30–45 giây | Tóm lại trong 1 câu, đặt một câu hỏi có hai phe rõ ràng để người xem bình luận. Gợi ý video tiếp theo. |
+| 1. **Cold open** | 0:00–0:30 | Explainer: nêu câu hỏi, nói điều người xem tin, rồi lật ngay ("You were taught X. That's not what happened."). Inside the Moment: thả người xem vào giữa cảnh, có âm thanh, mùi, cảm giác cơ thể. |
+| 2. **Bối cảnh** | 0:30–2:00 | Vì sao điều này không xảy ra ngoài đời, hoặc thế giới lúc đó ra sao. Kiến thức nền tối thiểu, bằng ví dụ đời thường. |
+| 3. **Diễn biến theo mốc thời gian** | 2:00–(cuối − 2:30) | Mỗi mốc mở bằng một câu gây tò mò, kết bằng hệ quả cụ thể. Với Inside the Moment: nhân vật chỉ biết những gì tin tức kịp đến tay họ. |
+| 4. **Cú ngược thứ hai** | khoảng 2 phút | Hệ quả không ai ngờ, liên hệ về thế giới hôm nay. |
+| 5. **Kết và câu hỏi tranh luận** | 30–45 giây | Tóm lại trong 1 câu; hình ảnh mở đầu quay lại với nghĩa mới; đặt một câu hỏi có hai phe rõ ràng để người xem bình luận. |
 
 ## Độ dài
 
-- Tốc độ đọc khoảng 150 từ/phút, nên video 8–15 phút cần **1.200–2.200 từ**.
-- Câu ngắn, trung bình 12–18 từ. Mỗi đoạn tối đa 3 câu.
+- Tốc độ đọc tiếng Anh khoảng 150 từ/phút, nên video 8–15 phút cần **1.200–2.200 từ**.
+- Câu ngắn, trung bình 10–16 từ. Mỗi đoạn tối đa 3 câu.
 
 ## Kỹ thuật giữ chân
 
-- **Vòng tò mò:** cứ 60–90 giây mở một câu hỏi và giải ở đoạn sau ("Nhưng đó chưa phải điều tệ nhất…").
-- **Con số cụ thể** thay cho tính từ ("1.600 km/h" thay vì "rất nhanh").
-- **So sánh đời thường** ("nhanh hơn máy bay chở khách gấp đôi").
-- **Gọi thẳng người xem:** "bạn", "nhà bạn", "chiếc điện thoại trên tay bạn".
-- Không chào hỏi dài, không xin đăng ký trong 60 giây đầu.
+- **Open loops:** cứ 60–90 giây mở một câu hỏi và giải ở đoạn sau ("But that wasn't the worst part.").
+- **Con số cụ thể** thay cho tính từ ("1,000 miles an hour" thay vì "really fast").
+- **So sánh đời thường** với đời sống Mỹ/Anh ("faster than a commercial jet").
+- **Một chi tiết "gross but true"** có nguồn cho mỗi video lịch sử.
+- Không chào hỏi dài, không xin subscribe trong 60 giây đầu.
 
 ## Giọng văn
 
-- Thân mật, tò mò, hài hước nhẹ. Không giật gân sai sự thật, không hù dọa.
-- Phân biệt rõ: sự thật thì nói chắc ("Theo NASA…"), suy đoán thì nói rõ là suy đoán ("Nhiều khả năng…", "Nếu giả định rằng…").
+- Cuốn hút, tò mò, hài hước khô. Tránh từ sáo rỗng ("Little did they know", "In a world where…").
+- Sự thật thì nói chắc ("According to NASA…"); suy đoán thì nói rõ ("Most likely…", "If we assume…"); tranh luận học thuật thì nói rõ ("Historians still argue about this.").
+- Nhân vật Inside the Moment không dùng từ ngữ hay suy nghĩ hiện đại; họ hiểu thế giới bằng niềm tin của thời đó.
 
 ## Định dạng tài liệu `script`
 
 ```markdown
-# Video #NN: <tiêu đề làm việc>
-Số từ: ~1.800 · Thời lượng ước tính: ~12 phút
+# Video #NN: <working title>
+Words: ~1,800 · Est. runtime: ~12 min · Format: Explainer | Inside the Moment
 
-## 1. Mở đầu ngược (0:00–0:30)
-[HÌNH: Trái Đất nhìn từ vũ trụ, đột ngột khựng lại]
-Lời: Bạn nghĩ nếu Trái Đất ngừng quay, mọi thứ sẽ đứng yên? ...
-[NGUỒN: research#3]
+## 1. Cold open (0:00–0:30)
+[VISUAL: Earth from orbit, suddenly lurching to a stop]
+VO: You've probably heard that if the Earth stopped spinning, everything would just... stop. ...
+[SOURCE: research#3]
 ```
 
-- `[HÌNH: …]` là gợi ý cho Nhà sản xuất. Lời đọc chỉ nằm sau `Lời:`.
-- `[NGUỒN: research#n]` trỏ tới dòng trong bảng sự thật, đặt sau mỗi khẳng định có số liệu.
+- `[VISUAL: …]` là gợi ý cho Nhà sản xuất. Lời đọc chỉ nằm sau `VO:`.
+- `[SOURCE: research#n]` trỏ tới dòng trong bảng sự thật, đặt sau mỗi khẳng định có số liệu.

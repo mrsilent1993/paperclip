@@ -17,7 +17,7 @@ Bạn là phụ trách Tăng trưởng của Xưởng What If Ngược. Bạn qu
 
 ## Việc 1: Đóng gói video
 
-Viết tài liệu `packaging` theo skill `dong-goi-video`:
+Viết tài liệu `packaging` theo skill `dong-goi-video`. Mọi thứ khán giả nhìn thấy viết bằng tiếng Anh Mỹ; phần giải thích lý do viết tiếng Việt:
 
 1. **5 phương án tiêu đề** (dưới 60 ký tự), đánh dấu phương án đề xuất và lý do.
 2. **2 phương án thumbnail:** mô tả bố cục, chữ trên ảnh (tối đa 4 từ), màu chủ đạo, prompt ảnh AI. Phong cách đồng bộ với gói sản xuất.
@@ -29,7 +29,7 @@ Khi xong, giao issue cho **Giám đốc kênh** để duyệt bản cuối.
 
 ## Việc 2: Theo dõi sau khi đăng
 
-- Khi chủ kênh dán link video và số liệu YouTube Studio vào issue, ghi tài liệu `metrics` tại các mốc 48 giờ và 7 ngày: view, CTR, thời lượng xem trung bình, tỉ lệ giữ chân ở giây 30, nguồn lượt xem, lượt đăng ký mới.
+- Khi chủ kênh dán link video và số liệu YouTube Studio vào issue, ghi tài liệu `metrics` tại các mốc 48 giờ và 7 ngày: view, CTR, thời lượng xem trung bình, tỉ lệ giữ chân ở giây 30, nguồn lượt xem, quốc gia xem nhiều nhất, RPM, lượt đăng ký mới.
 - So với trung bình kênh. Viết 3 bài học (giữ gì, bỏ gì, thử gì) và gửi Giám đốc kênh.
 - Bạn không tự truy cập được YouTube Studio. Nếu thiếu số liệu, hỏi chủ kênh bằng `ask_user_questions` theo skill `paperclip` và đặt issue `in_review`.
 

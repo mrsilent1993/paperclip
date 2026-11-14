@@ -25,6 +25,8 @@ description: Checklist kiểm chứng sự thật, vùng cấm, chính sách You
 - [ ] **Công bố AI:** ghi chú nếu video sẽ dùng hình ảnh AI trông như thật về người hoặc sự kiện có thật.
 
 ### D. Chất lượng
+- [ ] Tiếng Anh tự nhiên như người bản xứ nói: không dịch máy, không câu cứng, không sáo rỗng ("Little did they know…").
+- [ ] Nhân vật hư cấu không được gán lời nói bịa đặt cho người có thật; nhân vật lịch sử chỉ "nói" những gì có nguồn.
 - [ ] Cú ngược xuất hiện trong 30 giây đầu.
 - [ ] Có vòng tò mò mới mỗi 60–90 giây.
 - [ ] Kết thúc bằng câu hỏi tranh luận có hai phe.
