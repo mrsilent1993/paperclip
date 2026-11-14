@@ -43,7 +43,7 @@ Nguồn: `reports/Thị trường và chiến lược kênh What If.md`. Đây l
 
 1. **Định vị "case file có nguồn, do người nghiên cứu".** Nguồn dẫn là một phần nhận diện: thẻ nguồn trên màn hình, mục Sources trong mô tả, bình luận ghim để đính chính khi có sai sót.
 2. **Giữ ngách What if + bóc huyền thoại** từ video đầu tiên, không đổi hướng.
-3. **Giọng đọc người thật, nhất quán** (một voice actor cố định hoặc chủ kênh tự đọc). Không dùng giọng AI chung chung.
+3. **Giọng đọc nhất quán bằng phần mềm giọng đọc của chủ kênh:** cố định một giọng cho mọi video, chỉnh cho tự nhiên (nhịp, ngắt nghỉ, nhấn giọng), soát cách đọc tên riêng trước khi xuất. Không đổi giọng giữa các video. Khán giả dễ nhận ra giọng AI chung chung, nên chất lượng giọng là yếu tố được kiểm duyệt.
 4. **Cảnh vẽ cho Inside the Moment** phải qua kiểm tra lỗi thời đại và gắn nhãn "Dramatised reconstruction". Ưu tiên tranh tư liệu public domain.
 5. **Nhịp đăng:** 1 video dài mỗi tuần, cố định ngày, nhắm 10–12 video trong 90 ngày đầu. Mỗi video kèm 2–3 Shorts đăng trong 72 giờ.
 6. **Thiết kế cho Suggested và màn hình TV:** series và playlist, câu nối sang video sau ở cuối video, chữ to, thumbnail 1–3 từ.

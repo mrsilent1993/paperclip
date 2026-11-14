@@ -9,7 +9,8 @@ description: Định dạng gói sản xuất cho video What if không lộ mặ
 
 - Chép nguyên văn các dòng `VO:` (tiếng Anh) trong kịch bản đã ĐẠT.
 - Đánh dấu `/` cho ngắt ngắn, `//` cho ngắt dài, **in đậm** cho từ cần nhấn.
-- **Giọng đọc người thật, cùng một người cho mọi video** (voice actor cố định hoặc chủ kênh). Không dùng giọng AI chung chung. Gói sản xuất là bản hướng dẫn cho người đọc.
+- **Giọng đọc do chủ kênh tạo bằng phần mềm giọng đọc riêng, cùng một giọng cho mọi video.** Gói sản xuất là bản hướng dẫn để chỉnh giọng: chỗ ngắt, chỗ nhấn, tốc độ, cảm xúc từng đoạn.
+- Ghi danh sách từ dễ bị đọc sai (tên riêng, từ cổ, số liệu, năm) kèm cách đọc, để chủ kênh soát lại trong phần mềm trước khi xuất.
 - Ghi gợi ý giọng: tốc độ (khoảng 150 từ/phút), cảm xúc từng phần. Dạng Inside the Moment có thể cần giọng thứ hai cho nhân vật.
 - Ghi chú cách phát âm cho tên riêng khó (ví dụ "Pheidippides: fy-DIP-ih-deez").
 - Kịch bản phải nghe hiểu được mà không cần nhìn: hơn một nửa người xem ở Mỹ xem trên TV, nhiều người nghe như podcast.
